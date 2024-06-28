@@ -5,4 +5,4 @@
 
 copy the files from the repositry and load them up in vscode
 2.set open ai api key or hugging face api(make sure u have access to gemma-2b model)
-##thats it open terminal and run commands pip install -r requirmetns.txt and enter command streamlit run app.py
+##thats it open terminal and run commands pip install -r requirmetns.txt and enter command streamlit run v3.py
