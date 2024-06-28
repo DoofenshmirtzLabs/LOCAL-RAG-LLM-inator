@@ -1,5 +1,5 @@
 # LOCAL-RAG-LLM
-##created an local rag +llm using embedding functions,vector database and gemma-2b for llm and also an alternative,using openai api and also used streamlit for front end
+##created an local rag +llm using embedding functions,vector database and openai api and also used streamlit for front end
 
 ##how to intialize?
 
