@@ -1,0 +1,15 @@
+torch
+pymupdf
+tqdm
+pandas
+numpy
+nltk
+sentence-transformers
+python-docx
+streamlit
+scikit-learn
+python-dotenv
+InstructorEmbedding
+langchain-community
+werkzeug
+chromadb
