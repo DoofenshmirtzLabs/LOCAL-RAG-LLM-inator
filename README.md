@@ -5,3 +5,9 @@ this project is a document processing application built with Python, leveraging 
 copy the files from the repositry and load them up in vscode
 2.set open ai api key or hugging face api(make sure u have access to gemma-2b model)
 ##thats it open terminal and run commands pip install -r requirmetns.txt and enter command streamlit run v3.py
+##things to do in future
+
+1.implementing access control methods probably//RBAC or PROJECT BASED
+2.Admin dash board and tools
+3.deploying it in VM
+4.probably logger and intrusion detection systems
