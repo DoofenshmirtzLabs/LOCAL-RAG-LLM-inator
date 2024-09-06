@@ -30,6 +30,7 @@ Generation:
 The Language Model (LLM) processes the augmented query and generates a response based on both the user's input and the retrieved document content.
 
 note for me:
+include multiple data processing such as sql,excel
 1.implementing access control methods probably//RBAC or PROJECT BASED
 2.Admin dash board and tools
 3.deploying it in VM
